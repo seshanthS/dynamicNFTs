@@ -36,10 +36,3 @@ contract TimeBasedNFTData {
         return true;
     }
     
-}}
-//0x58475Fc946cab6B4fFB524eE5492B7a934EaB89E - nft
-//0x63E17847F940B2fa193641849ADc4b3Ec0D54523 - timebased
-
-
-//JSON MORNING HASH - Qmdw88xTrq9ns1iZSwEs6Hn3G6aVFJLBfsFycSurqLmSDS
-//JSON Not morning HASH - QmNXQo8Ex5TVsdFp9aGjLaNAb3HhzhBFEbWP9iDvMnZRS3
